@@ -6,6 +6,7 @@
     "Ritesh Manchanda <me@ritesh.it>"
   ],
   "description": "Starting seed for creating styleguide seeds with Hologram using Cortana theme",
+  "main": "./source/styles/patterns.css",
   "keywords": [
     "hologram",
     "styleguide",
