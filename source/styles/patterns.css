@@ -1,0 +1,16 @@
+/*doc
+---
+title: Buttons
+name: button
+category: Base - Button
+---
+```html_example
+    <div class='btn'>Hello</div>
+```
+*/
+.btn {
+  padding: 20px;
+  background-color: #F44336;
+}
+
+/*# sourceMappingURL=patterns.css.map */

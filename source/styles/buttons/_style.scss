@@ -1,0 +1,17 @@
+@import "../_variables/colors";
+
+/*doc
+---
+title: Buttons
+name: button
+category: Base - Button
+---
+```html_example
+    <div class='btn'>Hello</div>
+```
+*/
+
+.btn {
+  padding: 20px;
+  background-color: $primary;
+}

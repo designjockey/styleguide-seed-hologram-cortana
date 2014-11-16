@@ -1,0 +1,35 @@
+{
+  "name": "styleguide-seed-hologram-cortana",
+  "version": "0.1.0",
+  "description": "Starting seed for creating styleguide seeds with Hologram using Cortana theme",
+  "main": "./source/styles/patterns.css",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/designjockey/styleguide-seed-hologram-cortana.git"
+  },
+  "keywords": [
+    "hologram",
+    "styleguide",
+    "hologram-seed",
+    "styleguide-seed",
+    "hologram-cortana",
+    "pattern-library"
+  ],
+  "author": "Ritesh Manchanda <me@ritesh.it>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designjockey/styleguide-seed-hologram-cortana/issues"
+  },
+  "homepage": "https://github.com/designjockey/styleguide-seed-hologram-cortana",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.9.0",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-shell": "^1.1.1",
+    "load-grunt-tasks": "^1.0.0",
+    "time-grunt": "^1.0.0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "styleguide-seed-hologram-cortana",
+  "version": "0.1.0",
+  "homepage": "https://github.com/designjockey/styleguide-seed-hologram-cortana",
+  "authors": [
+    "Ritesh Manchanda <me@ritesh.it>"
+  ],
+  "description": "Starting seed for creating styleguide seeds with Hologram using Cortana theme",
+  "keywords": [
+    "hologram",
+    "styleguide",
+    "hologram-seed",
+    "styleguide-seed",
+    "pattern-library",
+    "cortana-hologram"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "Cortana": "~1.2.7"
+  }
+}
